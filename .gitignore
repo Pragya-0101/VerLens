@@ -1,0 +1,13 @@
+.env
+.venvlang/
+verlens_vec/
+*.sqlite3
+__pycache__/
+lib/
+Scripts/
+Include/
+pyvenv.cfg
+share/
+bin/
+etc/
+.env.*
